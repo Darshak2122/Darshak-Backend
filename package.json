@@ -2,7 +2,7 @@
   "name": "node-js",
   "version": "1.0.0",
   "description": "back-end ",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,8 @@
     "horse"
   ],
   "author": "Darshak Dodiya",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
